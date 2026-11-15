@@ -5,9 +5,7 @@ expression levels, contour plots of the fitted models, an Echo picklist builder,
 and flux data. Not under development; scripts are kept as published.
 
 ## For whom
-- Regression, contour and histogram outputs (xlsx, pdf): Eric, run by hand from each script's own folder, to reproduce the paper's figures.
-- Echo picklists (`picklist_*.csv`): the Echo liquid handler, for assembling designs in the lab.
-- Feeds / reads no other repo.
+- Archive only; nobody runs it now (Eric, 2026-11-15).
 
 ## Where
 - Runs on: any machine with the old Python (3.5 / 2.7 per the script headers); local only. How to run each script is in README.md.
