@@ -12,5 +12,3 @@ and flux data. Not under development; scripts are kept as published.
 - Data: in the repo, one folder per analysis (`ia_*`). The paper's real flow files (all but `white-cells.fcs`)
   and the paper PDF live outside the repo, place not recorded (Eric, 2026-11-15). What the `ia_flux/` files
   fed is not known (Eric, 2026-11-15: "a decade ago"). Ground truth: the files themselves.
-
-riker: light
